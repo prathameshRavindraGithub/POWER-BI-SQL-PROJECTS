@@ -99,5 +99,4 @@ on a.userid=b.userid
 and created_date<=gold_signup_date) c)d
 where rnk=1;
 
-create view my_zomatoproject
-AS
+
