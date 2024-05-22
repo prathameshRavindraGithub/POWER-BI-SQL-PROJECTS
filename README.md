@@ -3,7 +3,6 @@ The data are given for one of the branches of UK banks. The customers are
 mostly from different age group and are from different regions. The management 
 wants to check the overall insight about customer data. The requested reports 
 are defined as mentioned below. 
-www.thetools.co.in
 1. Total Number of Unique customers across various regions and Gender 
 distribution across each region
 2. Gender distribution in percent among overall number of customers.
